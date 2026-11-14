@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="vtv1" tvg-name="VTV1 HD" group-title="Việt Nam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo_VTV1_HD.png",VTV1 HD
-https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv1/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="vtv2" tvg-name="VTV2 HD" group-title="Việt Nam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/VTV2%281%29.png",VTV2 HD
 https://live.fptplay53.net/fnxhd1/vtv2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv3" tvg-name="VTV3 HD" group-title="Việt Nam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/VTV3%282%29.png",VTV3 HD
