@@ -10,7 +10,7 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv4/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="vtv5" tvg-name="VTV5 HD" group-title="Việt Nam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Logov5.png/330px-Logov5.png",VTV5 HD
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="vtv10" tvg-name="VTV10 HD" group-title="Việt Nam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/VTV10_logo_2026.png?utm_source=vi.wikipedia.org&utm_campaign=index&utm_content=original",VTV10 HD
-https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv6/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="vtv can tho" tvg-name="VTV5 can tho HD" group-title="Việt Nam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png",VTV5 Can Tho HD
 https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv7" tvg-name="VTV7 HD" group-title="Việt Nam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/VTV7Logo.png",VTV7 HD
