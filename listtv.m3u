@@ -9,18 +9,20 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv3/playlist_720p.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv4/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="vtv5" tvg-name="VTV5 HD" group-title="Việt Nam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Logov5.png/330px-Logov5.png",VTV5 HD
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5/playlist_720p.m3u8
-#EXTINF:-1 tvg-id="vtv10" tvg-name="VTV10 HD" group-title="Việt Nam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/VTV10_logo_2026.png?utm_source=vi.wikipedia.org&utm_campaign=index&utm_content=original",VTV10 HD
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv6/playlist_720p.m3u8
-#EXTINF:-1 tvg-id="vtv can tho" tvg-name="VTV5 can tho HD" group-title="Việt Nam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png",VTV5 Can Tho HD
-https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv5 Tay Nam Bo" tvg-name="VTV5 Tay Nam Bo HD" group-title="Việt Nam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/VTV5-TayNamBo.png",VTV5 Tay Nam Bo HD
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tnb/playlist_720p.m3u8
+#EXTINF:-1 tvg-id="vtv5 Tay Nguyen" tvg-name="VTV5 Tay Nguyen HD" group-title="Việt Nam" tvg-logo="https://commons.wikimedia.org/wiki/File:VTV5_logo_2013_final.svg#/media/File:Taynguyen-small.png",VTV5 Tay Nguyen HD
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tn/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="vtv7" tvg-name="VTV7 HD" group-title="Việt Nam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/VTV7Logo.png",VTV7 HD
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv7/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="vtv8" tvg-name="VTV8 HD" group-title="Việt Nam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/VTV8_logo.png",VTV8 HD
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv8/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="vtv9" tvg-name="VTV9 HD" group-title="Việt Nam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/640px-VTV9_logo_2013_final.svg.png",VTV9 HD
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv9/playlist_720p.m3u8
+#EXTINF:-1 tvg-id="vtv10" tvg-name="VTV10 HD" group-title="Việt Nam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/VTV10_logo_2026.png?utm_source=vi.wikipedia.org&utm_campaign=index&utm_content=original",VTV10 HD
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv6/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="VIETNAMTODAY" tvg-name="VIETNAMTODAY HD" group-title="Việt Nam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Vietnam_Today_Logo.png",VIETNAMTODAY HD
-https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
+https://amg01923-amg01923c162-amgplt0456.playout.now3.amagi.tv/playlist_1e4d76a3_88353259571126965.m3u8
 #EXTINF:-1 tvg-id="htv1" tvg-name="HTV1 HD" group-title="Việt Nam" tvg-logo="https://vi.wikipedia.org/wiki/HTV1#/media/T%E1%BA%ADp_tin:HTV1.png",HTV1 HD | TH TP Hồ Chí Minh
 https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv2" tvg-name="HTV2 HD" group-title="Việt Nam" tvg-logo="https://vi.wikipedia.org/wiki/HTV2#/media/T%E1%BA%ADp_tin:HTV2_(2009).png",HTV2 HD | TH TP Hồ Chí Minh
