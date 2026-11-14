@@ -4,14 +4,12 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv1/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="vtv2" tvg-name="VTV2 HD" group-title="Việt Nam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/VTV2%281%29.png",VTV2 HD
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv2/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="vtv3" tvg-name="VTV3 HD" group-title="Việt Nam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/VTV3%282%29.png",VTV3 HD
-https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist_b4200000.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv3/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="vtv4" tvg-name="VTV4 HD" group-title="Việt Nam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Truyen-hinh-vtv4.png",VTV4 HD
-https://live.fptplay53.net/fnxhd1/vtv4_vhls.smil/chunklist_b5000000.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv4/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="vtv5" tvg-name="VTV5 HD" group-title="Việt Nam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Logov5.png/330px-Logov5.png",VTV5 HD
-https://live.fptplay53.net/epzhd1/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv5 Tay Nam Bo" tvg-name="VTV5 Tay Nam Bo HD" group-title="Việt Nam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/VTV5-TayNamBo.png",VTV5 Tay Nam Bo HD
-https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv5 Tay Nguyen" tvg-name="VTV5 Tay Nguyen HD" group-title="Việt Nam" tvg-logo="https://commons.wikimedia.org/wiki/File:VTV5_logo_2013_final.svg#/media/File:Taynguyen-small.png",VTV5 Tay Nguyen HD
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5/playlist_720p.m3u8
+#EXTINF:-1 tvg-id="vtv10" tvg-name="VTV10 HD" group-title="Việt Nam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/VTV10_logo_2026.png?utm_source=vi.wikipedia.org&utm_campaign=index&utm_content=original",VTV10 HD
 https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv can tho" tvg-name="VTV5 can tho HD" group-title="Việt Nam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png",VTV5 Can Tho HD
 https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
