@@ -237,7 +237,6 @@ https://dethich.pw/vtv10/index.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=189
 #EXTINF:-1 tvg-id="ONTrendingTV.vn@SD" group-title="Việt Nam",ON Trending TV (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=186
-
 #EXTINF:-1 tvg-id="HTV7.vn@SD" group-title="Việt Nam",HTV7 (1080p) [Geo-blocked]
 https://1011154949.vnns.net/CDN-FPT02/HTV7-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="ONVFamily.vn@SD" group-title="Việt Nam",ON V Family (480p)
